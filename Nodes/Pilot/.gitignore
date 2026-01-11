@@ -1,0 +1,10 @@
+# STM32 Compiler outputs
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.lst

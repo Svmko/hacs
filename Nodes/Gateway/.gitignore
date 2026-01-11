@@ -1,0 +1,10 @@
+# Arduino/XIAO build artifacts
+build/
+bin/
+*.hex
+*.elf
+*.zip
+
+# IDE specific
+.vscode/
+.gcc-flags.json
